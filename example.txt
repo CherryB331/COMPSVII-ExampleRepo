@@ -8,4 +8,4 @@ My Grocery List
 - Lemons
 - tacos
 - pickles
-- this better fucking wor
+- this better fucking work
