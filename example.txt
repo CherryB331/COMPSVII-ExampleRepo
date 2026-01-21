@@ -6,6 +6,4 @@ My Grocery List
 - Butte
 - Sugar
 - Lemons
-- tacos
-- pickles
-- this better fucking work
+
